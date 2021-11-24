@@ -1,2 +1,1 @@
-# refuges-help
-Help informations for refuges app
+If you need assistance, please contact us by email: refuges.app@gmail.com
